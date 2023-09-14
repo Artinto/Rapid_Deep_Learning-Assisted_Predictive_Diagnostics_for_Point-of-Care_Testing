@@ -44,8 +44,8 @@ $ conda activate <venv_name>
 
 ## II. Download Dataset
 ### Dataset
-- [Standard_sample.zip]()
-- [label_info.csv]()
+- [Standard_sample.tar](https://drive.google.com/file/d/1eQWCfGTpKm9RF8PacSwa9JEib4hUCvx3/view?usp=sharing)
+- [label_info.csv](https://drive.google.com/file/d/1nRP8ttMx2eDY74rdp_rHBpXxETM9sDW-/view?usp=sharing)
 
 <br>
 
