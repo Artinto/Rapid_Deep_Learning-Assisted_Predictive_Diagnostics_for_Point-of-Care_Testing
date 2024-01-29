@@ -1,4 +1,4 @@
-## Transforming Point-of-Care Diagnostics: 1-Minute Assays Enabled by Time-Series Deep Learning
+## Rapid Deep Learning-Assisted Predictive Diagnostics for Point-of-Care Testing
 #### ✔ [Python 3.9](https://www.python.org/downloads/) and [Ubuntu 16.04](https://releases.ubuntu.com/16.04/) are required
 #### ✔ [CUDA](https://developer.nvidia.com/cuda-10.2-download-archive)>=10.2 and [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)>=8.0.2 are required.
 #### ✔ [Anaconda](https://github.com/conda/conda) environment is recommended.
